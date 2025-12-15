@@ -3,25 +3,25 @@ Building technical depth through production projects: AWS Solutions Architect ce
 
 ## Goals
 
-### Q1 2025 (Jan-Mar): Foundation
+### Q1 2026 (Jan-Mar): Foundation
 - **AWS Solutions Architect Associate** certification
 - **Production MCP Server** deployed
 - **Weekly documentation** habit established
 - **GitHub portfolio** started
 
-### Q2 2025 (Apr-Jun): ML/AI Depth
+### Q2 2026 (Apr-Jun): ML/AI Depth
 - Complete Fast.ai Practical Deep Learning
 - Implement GraphRAG on knowledge graphs
 - Build 3 vibe-coded ML/AI tools
 - Deliver internal tech talk
 
-### Q3 2025 (Jul-Sep): Scale & Position
+### Q3 2026 (Jul-Sep): Scale & Position
 - Scale GraphRAG to production with metrics
 - Apply to executive education programs
 - Build open source tool with users
 - Secure technical advisory role
 
-### Q4 2025 (Oct-Dec): Portfolio & Visibility
+### Q4 2026 (Oct-Dec): Portfolio & Visibility
 - Complete third major project
 - Launch technical portfolio website
 - Deliver conference/meetup talk
